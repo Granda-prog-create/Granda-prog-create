@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Granda-prog-create
 - 👀 I’m interested in fullstack and ethical hacker
-- 🌱 I’m currently learning HTML, CSS, Javascript, PHP, React, Next.JS, Node.JS, Database, Firebase and MEVN Stack. 
-- 💞️ I’m looking to collaborate on HTML, CSS, Javascript, PHP, Node.JS,
+- 🌱 I’m currently learning ReactJS. 
+- 💞️ I’m looking to collaborate on HTML, CSS, Javascript, VueJS and ReactJS. 
 - 📫 How to reach me matheus.granda@gmail.com
 
 <!---
