@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Matheus Granda
 
-### 👨‍💻 Desenvolvedor Backend
+### 👨‍💻 Desenvolvedor 
 
 Sou um desenvolvedor focado em backend com experiência em Python, JavaScript, TypeScript, C# e Node.js. Estou sempre em busca de novas tecnologias e desafios para aprimorar minhas habilidades e contribuir para projetos inovadores.
 
