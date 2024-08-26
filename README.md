@@ -16,4 +16,6 @@ Sou um desenvolvedor focado em backend com experiência em Python, JavaScript, T
 
 Você pode entrar em contato comigo através do e-mail: [matheus.granda@gmail.com](mailto:matheus.granda@gmail.com)
 
+Linkedin: https://www.linkedin.com/in/matheus-granda-cesar-60282a203/ 
+
 ---
